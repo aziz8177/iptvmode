@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="013" tvg-number=13  tvg-id="tv.13" service_name=tv.13 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png",NHK WORDL MPEGTS
+#EXTINF:-1 tvg-name="013"  tvg-id="tv.13" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png",NHK WORDL MPEGTS
 http://192.168.0.130:80/live.ts
 
 #EXTINF:-1 tvg-name="014" tvg-id="tv.14" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png",NHK WORDL SAT>IP
